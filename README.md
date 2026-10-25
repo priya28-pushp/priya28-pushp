@@ -50,15 +50,81 @@ Tools & Platforms
 
 🚀 Featured Projects
 
-Here are some of the projects I'm exploring and building:
+Building technology that makes a difference through artificial intelligence, healthcare innovation, and intelligent software solutions.
 
-- 🐧 **OSTutorLLM** — An interactive operating systems tutor powered by large language models.
-- 🅿️ **Smart Parking System** — A software-based approach to simulating smart parking management.
-- 🤖 **AI & ML Projects** — Exploring intelligent applications and practical machine learning concepts.
+🗣️ 1. Compiler Whisperer — AI-Powered Coding Assistant
+An intelligent coding assistant designed to simplify compiler errors and make debugging easier for developers.
 
-*Visit my repositories to explore my work as these projects develop.*
+- 🔍 Helps interpret compiler errors and identify potential issues.
+- 🧠 Makes complex programming errors easier to understand.
+- 💡 Supports a more accessible and efficient debugging experience.
+
+Focus Areas: Artificial Intelligence · Programming · Developer Tools
 
 ---
+
+🤖 2. Privia AI — Intelligent AI Assistant
+An AI-powered assistant focused on delivering intelligent, interactive, and user-friendly assistance.
+
+- 💬 Designed for conversational interactions.
+- 🧠 Explores the practical applications of generative AI.
+- ⚡ Focuses on making AI assistance more accessible.
+
+Focus Areas: Generative AI · Natural Language Processing · AI Applications
+
+---
+
+🩺 3. CancerCare Companion — AI for Healthcare Support
+A healthcare-focused project designed to explore how AI can support cancer-care education and improve access to useful information.
+
+- 📚 Focuses on making cancer-related educational information accessible.
+- 💙 Explores supportive digital experiences for patients and caregivers.
+- 🧠 Investigates responsible applications of AI in healthcare.
+
+Focus Areas: AI in Healthcare · Health Education · Human-Centered Technology
+
+---
+
+☁️ 4. Cloud-DR-AI — AI-Driven Cloud Disaster Recovery
+A project exploring the use of artificial intelligence in cloud disaster recovery, with an emphasis on intelligent failure management and recovery strategies.
+
+- 🔍 Explores cloud failure prediction and recovery planning.
+- 🔄 Investigates disaster recovery strategies.
+- 📊 Focuses on recovery performance and system resilience.
+- ⚙️ Combines AI concepts with cloud computing principles.
+
+Focus Areas: Artificial Intelligence · Cloud Computing · Disaster Recovery
+
+---
+
+💊 5. MediSafe — Intelligent Medication Management
+A healthcare-oriented application concept focused on helping users manage medication information and maintain organized medication routines.
+
+- 💊 Explores medication schedule management.
+- ⏰ Focuses on medication reminders and adherence support.
+- 📋 Aims to make medication information easier to organize.
+
+Focus Areas: Healthcare Technology · Software Development · Digital Health
+
+---
+
+🐧 6. OSTutorLLM — Interactive Operating Systems Tutor
+An AI-powered learning assistant designed to help students understand operating systems through conversational learning and document-based knowledge retrieval.
+
+- 📚 Uses educational PDF materials as a knowledge source.
+- 🔎 Retrieves relevant information using a vector database.
+- 💬 Generates contextual responses using a large language model.
+- 🎓 Provides an interactive learning experience.
+
+Tech Stack: Python · Streamlit · LangChain · FAISS · Hugging Face Embeddings · Groq API
+
+---
+
+🌱 My Vision
+
+I aim to build intelligent, accessible, and practical technology by combining computer science fundamentals with AI, software development, and real-world problem-solving.
+
+One project at a time. One problem at a time. Always learning. 🚀
 
 📊 GitHub Statistics
 
